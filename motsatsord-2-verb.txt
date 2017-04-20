@@ -1,0 +1,11 @@
+Verb		Motsatsord
+
+1 gå in 	gå ut
+2 börja		sluta
+3 lyckas	
+4 höja		
+5 köpa		
+6 exportera	importera
+7 älska		hata
+8 komma ihåg	glömma
+9
