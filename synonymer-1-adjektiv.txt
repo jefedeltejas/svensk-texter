@@ -5,7 +5,7 @@ Adjektiv	Synonym
 3 konstig	
 4 stor 		enorm
 5 glad		
-6 optimistisk	hoppfull
+6 optimistisk		hoppfull
 7 rolig		
 8 snygg		
 9 tråkig	
