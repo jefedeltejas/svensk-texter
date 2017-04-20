@@ -3,18 +3,18 @@ Synonymer 2: verb
   Verb		Synonym
 
 1 tycka om	gilla
-2 hata		
-3 falla		
+2 hata		avsky
+3 falla		snubbla
 4 prata		tala
-5 förstå	
-6 laga		
+5 förstå	begripa
+6 laga		reparera
 7 åka		
-8 fixa		reparera
+8 fixa		ordna
 9 arbeta	jobba
-10 tycka	
+10 tycka	anse
 11 söka		leta
 12 kasta	slänga
 13 börja	starta
-14 dö		
+14 dö		avlida
 15 gå		promenera
 
