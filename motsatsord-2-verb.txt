@@ -2,10 +2,16 @@ Verb		Motsatsord
 
 1 gå in 	gå ut
 2 börja		sluta
-3 lyckas	
-4 höja		
-5 köpa		
+3 lyckas	misslyckas
+4 höja		sänka
+5 köpa		sälja
 6 exportera	importera
 7 älska		hata
 8 komma ihåg	glömma
-9
+9 leva		dö
+10 skratta	gråta
+11 öppna 	stänga
+12 tömma	fylla
+13 förstå 	missförstå
+14 vinna	förlora
+15 somna	vakna
