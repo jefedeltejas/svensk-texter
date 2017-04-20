@@ -2,4 +2,19 @@ Synonymer 2: verb
 
   Verb		Synonym
 
-1 tycka om
+1 tycka om	gilla
+2 hata		
+3 falla		
+4 prata		tala
+5 förstå	
+6 laga		
+7 åka		
+8 fixa		reparera
+9 arbeta	jobba
+10 tycka	
+11 söka		leta
+12 kasta	slänga
+13 börja	starta
+14 dö		
+15 gå		promenera
+
