@@ -1,18 +1,18 @@
-Adjektiv	Synonym
+Adjektiv		Synonym
 
-1 snäll		stilig	
-2 hemsk 	fruktansvärd
-3 konstig	underlig
-4 stor 		enorm
-5 glad		lycklig
-6 optimistisk	hoppfull
-7 rolig		lustig
-8 snygg		rar
-9 tråkig	trist
-10 klok		intelligent	
-11 orolig	nervös
-12 galen	tokig
-13 nöjd		belåten
-14 trött	sömnig
-15 enkel	lätt
+1 snäll			stilig	
+2 hemsk 		fruktansvärd
+3 konstig		underlig
+4 stor 			enorm
+5 glad			lycklig
+6 optimistisk		hoppfull
+7 rolig			lustig
+8 snygg			rar
+9 tråkig		trist
+10 klok			intelligent	
+11 orolig		nervös
+12 galen		tokig
+13 nöjd			belåten
+14 trött		sömnig
+15 enkel		lätt
 
