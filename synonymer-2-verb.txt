@@ -8,7 +8,7 @@ Synonymer 2: verb
 4 prata		tala
 5 förstå	begripa
 6 laga		reparera
-7 åka		
+7 åka		resa
 8 fixa		ordna
 9 arbeta	jobba
 10 tycka	anse
